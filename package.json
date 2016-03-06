@@ -1,0 +1,16 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^2.2.1",
+    "jquery-easy-loading": "^1.2.0",
+    "jsdom": "^8.1.0"
+  }
+}
